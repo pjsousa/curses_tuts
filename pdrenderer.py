@@ -125,9 +125,3 @@ class PandasRenderer():
 		return [ x[:] for x in self.col_offsets]
 
 
-
-
-
-
-
-
